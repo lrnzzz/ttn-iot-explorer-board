@@ -5,8 +5,8 @@ The Things Network IoT expansion board for:
 
 ## Features
 * LoRa Module
- * RN2483
- * EMB-LR1272 / EMB-LR1272E
+  * RN2483
+  * EMB-LR1272 / EMB-LR1272E
 * Battery holder for CR2032 battery
 
 ## Wishes
