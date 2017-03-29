@@ -7,6 +7,9 @@ The Things Network IoT expansion board for:
 * LoRa Module
   * RN2483
   * EMB-LR1272 / EMB-LR1272E
+* Connectivity
+  * micro:bit edge connector
+  * CALLIOPE MINI 26-pin connector
 * Battery holder for CR2032 battery
 
 ## Wishes
