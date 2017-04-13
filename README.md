@@ -10,7 +10,7 @@ The Things Network IoT expansion board for:
 * Connectivity
   * micro:bit edge connector
   * CALLIOPE MINI 26-pin connector
-* Battery holder for CR2032 battery
+* Battery holder for CR2032 or CR2450 battery
 
 ## Wishes
 * ...
